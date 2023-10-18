@@ -1,4 +1,4 @@
-let num = 1800;
+let num = 100;
 if (num > 100) {
     console.log('Invalid(Input Marks value greater than total marks)')
 } else if (num >= 33) {
