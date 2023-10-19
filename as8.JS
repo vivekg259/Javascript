@@ -1,4 +1,4 @@
-let num = 100;
+let num = 80;
 if (num > 100) {
     console.log('Invalid(Input Marks value greater than total marks)')
 } else if (num >= 33) {
