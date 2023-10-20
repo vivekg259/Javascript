@@ -9,7 +9,7 @@ console.log()
 var person = {
     firstName: "Vivek",
     lastName: "Gupta",
-    age: "23",
+    age: "24",
     height: "178cm",
     weight: "60kg",
 };
