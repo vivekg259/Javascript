@@ -1,7 +1,7 @@
 console.log("2. Comparison Operator")
 console.log()
 
-var x = 11;
+var x = 10;
 var y = 16;
 var z = "11";
 
