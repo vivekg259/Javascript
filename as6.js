@@ -2,7 +2,7 @@ console.log("2. Comparison Operator")
 console.log()
 
 var x = 11;
-var y = 17;
+var y = 15;
 var z = "11";
 
 console.log(x==z) //true - value is same
