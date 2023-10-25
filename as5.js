@@ -5,7 +5,7 @@ console.log("+ , - , * , / , % , ++ , --")
 //-------------------------------------------------------------------------
 
 let x = 19;
-let y = 7;
+let y = 11;
 console.log("Addition of x & y: " + (x+y))
 console.log("Substraction of x & y: " + (x-y))
 console.log("Multiplication of x & y: " + (x*y))
