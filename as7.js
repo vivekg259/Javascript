@@ -1,1 +1,1 @@
-empty
+empty js file
