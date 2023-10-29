@@ -7,7 +7,7 @@
 //     console.log("Result: Failed");
 // }
 
-let time = 9;
+let time = 3;
 let name = "Vivek..";
 if (time < 12 && time >= 5) {
   console.log("Good Morning! " + name);
