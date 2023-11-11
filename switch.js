@@ -29,7 +29,7 @@
 
 let result = marks();
 function marks() {
-    let obtMark = 801 ;
+    let obtMark = 101 ;
     if (obtMark>198 && obtMark<=600) {
         return (obtMark);
     } else if (obtMark<=198) {
