@@ -51,3 +51,4 @@ switch(typeof result){
       default:
         console.log('Invalid Input Marks')
 }
+//end of code
