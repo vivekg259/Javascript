@@ -1,5 +1,5 @@
 // Creating array
-let arr = [11, 18, 13, 7, 6]
+let arr = [11, 18, 3, 7, 6]
 let sum = 0;
 
 for (let i = 0; i < arr.length; i++) {
